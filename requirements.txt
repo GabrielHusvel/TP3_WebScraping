@@ -1,0 +1,6 @@
+lxml<5.3.99
+cssselect<1.2.99
+pandas<2.2.99
+bs4<0.0.99
+requests<2.32.99
+scrapy<2.11.99
